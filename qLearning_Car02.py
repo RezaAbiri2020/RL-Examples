@@ -1,5 +1,5 @@
 
-# this is a code from watching youtube
+# RL for mountain car 
 
 import gym
 import numpy as np
